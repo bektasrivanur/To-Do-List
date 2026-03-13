@@ -28,4 +28,4 @@ Basit ve işlevsel bir **to-do list** uygulaması. Kullanıcılar görev ekleyeb
 
 ---
 ## Canlı Demo  Linki
-- 
+- https://bektasrivanur.github.io/To-Do-List/
